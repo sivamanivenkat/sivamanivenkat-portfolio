@@ -1,6 +1,5 @@
-# Davide Santangelo - Personal Portfolio
+# Siva Mani Venkat Korlakunta - Personal Portfolio
 
-![License](https://img.shields.io/github/license/davidesantangelo/davidesantangelo.com)
 
 A modern, responsive personal portfolio website showcasing my skills, experience and professional approach as a Software Engineer.
 
