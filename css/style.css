@@ -1241,6 +1241,38 @@ section h2 {
 }
 
 
+/* Name + avatar row */
+.name-row {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start; /* center the whole block under the badge */
+  gap: 16px; /* space between name and photo */
+  flex-wrap: nowrap;
+  margin-top: 10px;
+}
+
+.name-row h1 {
+  margin: 0;
+  font-size: 3rem;
+  font-weight: 700;
+  color: #fff;
+  line-height: 1.2;
+}
+
+/* Image styles */
+.avatar {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid var(--primary-color, #4fd1c5);
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.2);
+}
+
+
+
+
+
 
 
 
